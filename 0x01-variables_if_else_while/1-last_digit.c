@@ -28,7 +28,7 @@ l = n % 10;
 /* checker if last digit is greater than 5 */
 if (l > 5)
 printf("Last digit of %d is %d and is greater than 5\n", n, l);
-  
+
 /* checker if last digit is zero */
 else if (l == 0)
 printf("Last digit of %d is %d and is 0\n", n, l);
